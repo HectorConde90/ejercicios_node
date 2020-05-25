@@ -4,7 +4,9 @@
   "description": "ejercicios node ",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^4.0.0"
+    "chalk": "^4.0.0",
+    "cows": "^2.1.0",
+    "superheroes": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
